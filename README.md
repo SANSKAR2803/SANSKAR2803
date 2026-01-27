@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Sanskar Agarwal
 
 ### A Gen AI based MERN Stack developer 
