@@ -12,8 +12,6 @@
 
 - 🤝 I'm looking for help with **Javascript and or C++**
 
-- 💬 Ask me about **React Node js or web development **
-
 - 📫 How to reach me **sanskaragrr@gmail.com**
 
 - 📄 Know about my experiences **[https://drive.google.com/drive/folders/1u0ba8FESyFAXhE4P4v8yoASlrqvQ3KYO?usp=sharing](https://drive.google.com/drive/folders/1u0ba8FESyFAXhE4P4v8yoASlrqvQ3KYO?usp=sharing)**
